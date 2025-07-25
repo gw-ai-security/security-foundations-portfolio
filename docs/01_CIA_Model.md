@@ -1,4 +1,4 @@
-# CIA-Trias – Eigene Erklärung
+# CIA-Trias –Erklärung
 
 Die CIA-Trias ist ein fundamentales Modell der Informationssicherheit. Sie beschreibt drei zentrale Schutzziele: Vertraulichkeit, Integrität und Verfügbarkeit. Diese Werte bilden die Grundlage jeder sicherheitsrelevanten Entscheidung in der IT.
 
