@@ -73,4 +73,12 @@ graph TD
     C --> A
 
 ```
+---
+## 6. CIA-Einschätzung realer Angriffsszenarien
+
+| Angriffsszenario                               | Betroffener CIA-Wert | Begründung                                                                 |
+|------------------------------------------------|------------------------|---------------------------------------------------------------------------|
+| Phishing-Mail mit Passwortdiebstahl           | Vertraulichkeit       | Zugangsdaten werden unbefugt abgegriffen – unautorisierter Zugriff auf Konten. |
+| Ransomware verschlüsselt Firmendaten          | Verfügbarkeit         | Daten und Systeme sind gesperrt und nicht mehr nutzbar – Betrieb steht still.  |
+| Man-in-the-Middle verändert Übertragungsdaten | Integrität            | Daten werden während der Übertragung manipuliert – z. B. falsche Zahlungsinfos. |
 
