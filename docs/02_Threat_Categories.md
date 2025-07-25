@@ -67,3 +67,19 @@ graph LR
     Bedrohungen --> E
 ```
 ---
+## 5. Szenarienanalyse – STRIDE & DREAD-Anwendung
+
+| Angriffsszenario                             | STRIDE-Kategorie        | DREAD-Einschätzung (hoch/mittel/niedrig) | Begründung                                      |
+|---------------------------------------------|--------------------------|-------------------------------------------|-------------------------------------------------|
+| SQL-Injection zur Rechteausweitung          | Elevation of Privilege   | Hoch                                      | Adminrechte über Webanwendung                  |
+| Offenes Admin-Panel ohne Login              | Information Disclosure   | Hoch                                      | Zugriff auf sensible Daten                     |
+| Überflutung eines Webshops durch Bots       | Denial of Service        | Mittel                                    | Kein Zugriff für Kunden                        |
+| Benutzer bestreitet versendete Mails        | Repudiation              | Mittel                                    | Kein Logging, keine digitale Signatur vorhanden |
+
+---
+
+## 6. Zusammenfassung
+
+- **STRIDE** hilft dir, Angriffsarten systematisch zu erkennen und zu klassifizieren.
+- **DREAD** erlaubt dir, diese Bedrohungen anhand von Schadensausmaß, Wiederholbarkeit und Angriffsaufwand zu bewerten.
+- Beide Modelle gehören zu den Grundbausteinen des **Threat Modelings**, der **Security-Analyse** und der **technischen Audit-Vorbereitung**.
