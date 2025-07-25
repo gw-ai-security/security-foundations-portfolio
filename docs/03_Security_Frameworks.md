@@ -78,16 +78,7 @@ flowchart LR
     A --> G["Zertifizierbar"]
     B --> G
 ```
-```mermaid
-flowchart LR
-    A[ISO27001] 
-    B[NIST_CSF]
-    C[GDPR]
 
-    A --> D[Risikobasiert]
-    B --> D
-    C --> D
-```
 ---
 
 ## 7. Zusammenfassung
