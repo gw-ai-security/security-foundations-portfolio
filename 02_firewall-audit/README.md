@@ -25,6 +25,8 @@ firewall-audit/
 │   └── mapping_iso_nist.md              # Controls-Mapping ISO/NIST
 └── report/
     └── firewall_audit_report.pdf        # Musterreport für Dokumentation
+```
+
 ## Eingesetzte Tools
 
 | Tool                    | Zweck                                      |
