@@ -42,3 +42,20 @@ Die CIA-Trias ist ein fundamentales Modell der Informationssicherheit. Sie besch
   Ein Online-Shop setzt redundante Server ein, damit auch bei einem Hardware-Ausfall der Webshop weiterhin erreichbar bleibt. So wird die ständige Verfügbarkeit sichergestellt.
 
 ---
+## 4. Zusammenhang der Werte
+
+- **Wie hängen die drei Werte zusammen?**  
+  Die drei Schutzziele der CIA-Trias – Vertraulichkeit, Integrität und Verfügbarkeit – ergänzen sich gegenseitig und bilden zusammen die Basis für Informationssicherheit. In vielen Systemen müssen sie gleichzeitig gewährleistet sein, um Daten zuverlässig, korrekt und geschützt bereitzustellen. Keiner der Werte steht isoliert – ihre Wechselwirkungen bestimmen die Qualität der Sicherheitsarchitektur.
+
+- **Was passiert, wenn einer verletzt wird?**  
+  Wird einer der Werte kompromittiert, ist die gesamte Informationssicherheit gefährdet.  
+  - **Verlust der Vertraulichkeit** kann zu Datenschutzverletzungen, Wirtschaftsspionage oder Reputationsschäden führen.  
+  - **Verlust der Integrität** kann zu fehlerhaften Entscheidungen führen, da Daten manipuliert oder verfälscht wurden.  
+  - **Verlust der Verfügbarkeit** kann Prozesse lahmlegen, z. B. durch Ransomware oder DoS-Angriffe.
+
+- **Typische Konflikte (z. B. Verfügbarkeit vs. Vertraulichkeit):**  
+  Sicherheitsmaßnahmen zur Steigerung eines Werts können andere Werte beeinträchtigen. Ein klassisches Beispiel ist der Konflikt zwischen Verfügbarkeit und Vertraulichkeit:  
+  - Ein stark abgesichertes System mit Mehrfaktor-Authentifizierung und Netzsegmentierung erhöht die Vertraulichkeit, kann aber die Verfügbarkeit für Benutzer senken – z. B. bei Notfällen oder Systemausfällen.  
+  - Umgekehrt kann eine sehr offene Architektur (z. B. öffentliche APIs ohne Authentifizierung) zwar die Verfügbarkeit erhöhen, aber die Vertraulichkeit und Integrität gefährden.
+
+  Daher ist ein ausgewogenes Sicherheitsdesign erforderlich, das alle drei Werte situationsgerecht priorisiert.
