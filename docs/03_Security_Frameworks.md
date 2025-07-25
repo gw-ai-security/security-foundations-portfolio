@@ -77,7 +77,7 @@ flowchart LR
     C --> F["Betroffenenrechte"]
     A --> G["Zertifizierbar"]
     B --> G
-
+```
 ---
 
 ## 7. Zusammenfassung
