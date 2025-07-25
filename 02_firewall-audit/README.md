@@ -130,8 +130,3 @@ Anleitung: siehe [`docs/firewall_audit_guide.md`](./docs/firewall_audit_guide.md
 
 ---
 
-## Kontakt & Mitwirken
-
-Pull Requests, Issues und Verbesserungsvorschläge sind willkommen.  
-Bei Fragen zur Anwendung: siehe [`firewall_audit_guide.md`](./docs/firewall_audit_guide.md)  
-oder kontaktiere das Repository-Team.
