@@ -1,4 +1,4 @@
-# SProjekt 1 Security Foundations Portfolio
+# Projekt 1 Security Foundations Portfolio
 
 Dieses Repository dokumentiert zentrale Grundlagen der Informationssicherheit. Es enthält strukturierte Markdown-Dateien, Visualisierungen und ein persönliches Lern-Dashboard. Ziel ist die praktische Auseinandersetzung mit Konzepten wie der CIA-Trias, Bedrohungsmodellen und Sicherheits-Frameworks. Die Umsetzung erfolgt ausschließlich mit kostenfreien Tools.
 
