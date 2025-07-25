@@ -59,3 +59,18 @@ Die CIA-Trias ist ein fundamentales Modell der Informationssicherheit. Sie besch
   - Umgekehrt kann eine sehr offene Architektur (z. B. öffentliche APIs ohne Authentifizierung) zwar die Verfügbarkeit erhöhen, aber die Vertraulichkeit und Integrität gefährden.
 
   Daher ist ein ausgewogenes Sicherheitsdesign erforderlich, das alle drei Werte situationsgerecht priorisiert.
+---
+## 5. Visualisierung der CIA-Trias (Mermaid-Diagramm)
+
+```mermaid
+graph TD
+    A[Confidentiality<br><br>Definition:<br>Nur autorisierte Personen<br>sollen Zugriff haben.<br><br>Beispiel:<br>Passwortgeschützter Bereich] 
+    B[Integrity<br><br>Definition:<br>Daten dürfen nicht unbemerkt<br>verändert werden.<br><br>Beispiel:<br>Digitale Signatur schützt PDF] 
+    C[Availability<br><br>Definition:<br>Systeme und Daten müssen<br>verfügbar bleiben.<br><br>Beispiel:<br>Redundante Server für Webshop]
+
+    A --> B
+    B --> C
+    C --> A
+
+```
+
