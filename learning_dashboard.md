@@ -1,6 +1,6 @@
 # Learning Dashboard – Projektübersicht
 
-Dieses Dashboard dient zur Fortschrittsverfolgung deiner 11 Projekte entlang der 4 Phasen deiner IT-Security-Lernleiter. Ziel ist es, alle Projekte auditfähig, dokumentiert und GitHub-kompatibel umzusetzen.
+Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 Phasen deiner IT-Security-Lernleiter. Ziel ist es, alle Projekte auditfähig, dokumentiert und GitHub-kompatibel umzusetzen.
 
 ---
 
