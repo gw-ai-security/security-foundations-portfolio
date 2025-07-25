@@ -14,22 +14,6 @@ Dieses Repository dokumentiert zentrale Grundlagen der Informationssicherheit. E
 
 ---
 
-## Repository-Struktur
-
-```plaintext
-security-foundations-portfolio/
-├── README.md                      # Projektübersicht & Beschreibung
-├── LICENSE.md                     # Lizenzinformationen (MIT)
-├── learning_dashboard.md          # Lernstatus & Projektübersicht
-├── diagrams/
-│   └── cia_triad.drawio           # CIA-Trias-Visualisierung
-├── docs/
-│   ├── 01_CIA_Model.md            # Erklärung der CIA-Trias
-│   ├── 02_Threat_Categories.md    # STRIDE, DREAD usw.
-│   └── 03_Security_Frameworks.md  # ISO 27001, NIST, DSGVO im Vergleich
-
-```
-
 ## Verwendete Tools
 
 | Kategorie           | Tool              | Funktion                           |
