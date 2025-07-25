@@ -29,6 +29,8 @@ security-foundations-portfolio/
 │   ├── 02_Threat_Categories.md    # STRIDE, DREAD usw.
 │   └── 03_Security_Frameworks.md  # ISO 27001, NIST, DSGVO im Vergleich
 
+```
+
 ## Verwendete Tools
 
 | Kategorie           | Tool              | Funktion                           |
