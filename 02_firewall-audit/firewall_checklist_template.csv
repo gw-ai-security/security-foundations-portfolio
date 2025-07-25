@@ -1,0 +1,2 @@
+Rule ID,Beschreibung,Quell-IP,Ziel-IP,Port / Protokoll,Richtung,Risiko (H/M/L),Empfehlung,Review-Feld (Name/Datum)
+FW-001,Allow HTTP from ANY to Webserver,ANY,10.0.0.10,TCP / 80,Eingehend,Hoch,Einschränken auf vertrauenswürdige IPs,
