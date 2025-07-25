@@ -22,14 +22,6 @@ Dieses Dashboard dient zur Fortschrittsverfolgung deiner 11 Projekte entlang der
 
 ---
 
-## Nächste Meilensteine
-
-- **Projekt 2 starten:** Firewall Rule Audit – Checkliste + Risikobewertung
-- **PDF-Export vorbereiten** für Projekt 1 (für Portfolio/Bewerbung)
-- **GitHub-Repo-Release vorbereiten** nach Abschluss von Projekt 2
-
----
-
 ## Fortschrittslegende
 
 - ✅ abgeschlossen  
