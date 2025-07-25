@@ -78,7 +78,7 @@ flowchart LR
     A --> G["Zertifizierbar"]
     B --> G
 ```
-```
+```mermaid
 flowchart LR
     A[ISO27001] 
     B[NIST_CSF]
