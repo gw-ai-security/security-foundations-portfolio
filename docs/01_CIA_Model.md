@@ -6,7 +6,7 @@ Die CIA-Trias ist ein fundamentales Modell der Informationssicherheit. Sie besch
 
 ## 1. Confidentiality (Vertraulichkeit)
 
-- **Definition (eigene Worte):**  
+- **Definition:**  
   Vertraulichkeit bedeutet, dass Informationen nur von berechtigten Personen eingesehen oder genutzt werden dürfen. Unbefugter Zugriff muss durch technische oder organisatorische Maßnahmen verhindert werden.
 
 - **Beispiel aus dem Alltag:**  
@@ -19,7 +19,7 @@ Die CIA-Trias ist ein fundamentales Modell der Informationssicherheit. Sie besch
 
 ## 2. Integrity (Integrität)
 
-- **Definition (eigene Worte):**  
+- **Definition:**  
   Integrität bedeutet, dass Informationen vollständig und unverändert vorliegen. Daten dürfen nur durch autorisierte Prozesse geändert werden und müssen vor Manipulation geschützt sein.
 
 - **Beispiel aus dem Alltag:**  
@@ -32,7 +32,7 @@ Die CIA-Trias ist ein fundamentales Modell der Informationssicherheit. Sie besch
 
 ## 3. Availability (Verfügbarkeit)
 
-- **Definition (eigene Worte):**  
+- **Definition:**  
   Verfügbarkeit bedeutet, dass Systeme und Informationen für autorisierte Nutzer zum benötigten Zeitpunkt zugänglich sind. Technische Ausfälle, Angriffe oder Überlastungen dürfen den Zugriff nicht verhindern.
 
 - **Beispiel aus dem Alltag:**  
