@@ -7,7 +7,7 @@ Dieses Repository dokumentiert zentrale Grundlagen der Informationssicherheit. E
 ## Projektinhalt
 
 - Grundlagen: CIA-Trias (Confidentiality, Integrity, Availability)
-- ⚠Bedrohungskategorien: STRIDE, DREAD
+- Bedrohungskategorien: STRIDE, DREAD
 - Security-Frameworks: ISO/IEC 27001, NIST Cybersecurity Framework, DSGVO
 - Toolchain: GitHub, Git, Markdown, draw.io
 - Learning Dashboard zur Fortschrittsverfolgung
