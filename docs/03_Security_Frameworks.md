@@ -77,6 +77,15 @@ flowchart LR
     C --> F["Betroffenenrechte"]
     A --> G["Zertifizierbar"]
     B --> G
+
+flowchart LR
+    A[ISO27001] 
+    B[NIST_CSF]
+    C[GDPR]
+
+    A --> D[Risikobasiert]
+    B --> D
+    C --> D
 ```
 ---
 
