@@ -1,0 +1,10 @@
+Impact,Likelihood,Risiko-Level
+Niedrig,Niedrig,Niedrig
+Niedrig,Mittel,Niedrig
+Niedrig,Hoch,Mittel
+Mittel,Niedrig,Niedrig
+Mittel,Mittel,Mittel
+Mittel,Hoch,Hoch
+Hoch,Niedrig,Mittel
+Hoch,Mittel,Hoch
+Hoch,Hoch,Hoch
