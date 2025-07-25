@@ -20,7 +20,6 @@ Dieses Repository dokumentiert zentrale Grundlagen der Informationssicherheit. E
 security-foundations-portfolio/
 ├── README.md                      # Projektübersicht & Beschreibung
 ├── LICENSE.md                     # Lizenzinformationen (MIT)
-├── .gitignore                     # Git-Ausnahmeregeln
 ├── learning_dashboard.md          # Lernstatus & Projektübersicht
 ├── diagrams/
 │   └── cia_triad.drawio           # CIA-Trias-Visualisierung
