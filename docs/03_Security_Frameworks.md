@@ -62,30 +62,21 @@ Diese Datei gibt einen strukturierten Überblick über drei zentrale Frameworks 
 
 ```mermaid
 flowchart LR
-    A[ISO/IEC 27001<br>Informationssicherheits-Managementsystem] 
-    B[NIST CSF<br>Cybersicherheits-Framework (USA)]
-    C[GDPR<br>Datenschutz-Grundverordnung (EU)]
+    A["ISO/IEC 27001\nInformationssicherheits-Managementsystem"] 
+    B["NIST CSF\nCybersicherheits-Framework (USA)"]
+    C["GDPR\nDatenschutz-Grundverordnung (EU)"]
 
-    A --> D[Risikobasiert]
+    A --> D["Risikobasiert"]
     B --> D
     C --> D
 
-    A --> E[Sicherheitsmaßnahmen]
+    A --> E["Sicherheitsmaßnahmen"]
     B --> E
     C --> E
 
-    C --> F[Betroffenenrechte]
-    A --> G[Zertifizierbar]
+    C --> F["Betroffenenrechte"]
+    A --> G["Zertifizierbar"]
     B --> G
-```
----
-## 6. Praxisbezug – Anwendung in Organisationen
-
-| Organisationstyp              | Relevante Frameworks       | Anwendung                                |
-|-------------------------------|-----------------------------|------------------------------------------|
-| Mittelständisches Unternehmen | ISO 27001, GDPR             | Aufbau ISMS, Datenschutzkonformität      |
-| US-amerikanischer Konzern     | NIST CSF, GDPR (für EU-Nutzer) | IT-Risikomanagement, Compliance       |
-| Behörde mit EU-Bürgerdaten    | GDPR, ISO 27001             | Nachweis Datenschutz, Audit-Vorbereitung |
 
 ---
 
