@@ -5,8 +5,8 @@
 graph TD
     %% Rollen-Definitionen
     CEO["CEO<br>delegiert Rollen"]
-    IT_Admin["IT_Admin\nAdmin auf AD & Netzwerke"]
-    HR_Admin["HR_Admin\nZugriff auf HR-Daten"]
+    IT_Admin["IT_Admin<br>Admin auf AD & Netzwerke"]
+    HR_Admin["HR_Admin<br>Zugriff auf HR-Daten"]
     Finance_Manager["Finance_Manager\nVerantwortung Finanzen"]
 
     %% Beziehungen / Hierarchie
