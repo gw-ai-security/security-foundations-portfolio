@@ -4,7 +4,7 @@
 ```mermaid
 graph TD
     %% Rollen-Definitionen
-    CEO["CEO\ndelegiert Rollen"]
+    CEO["CEO<br>delegiert Rollen"]
     IT_Admin["IT_Admin\nAdmin auf AD & Netzwerke"]
     HR_Admin["HR_Admin\nZugriff auf HR-Daten"]
     Finance_Manager["Finance_Manager\nVerantwortung Finanzen"]
