@@ -1,0 +1,8 @@
+Rollen,System HR-Daten (Lesen),System HR-Daten (Schreiben),Finanzsystem (Lesen),Finanzsystem (Schreiben),Active Directory (Benutzer verwalten),Active Directory (Adminrechte),Zugriff auf Geschäftsstrategie (Share),Risikobewertung
+HR_Assistant,X,,,,,,,Niedrig
+HR_Admin,X,X,,,,,,Mittel
+Finance_Clerk,,,X,,,,,Niedrig
+Finance_Manager,,,X,X,,,,Hoch
+IT_Support,,,,,X,,,Mittel
+IT_Admin,,,,,X,X,,Hoch
+CEO,X,,X,,,,X,Hoch
