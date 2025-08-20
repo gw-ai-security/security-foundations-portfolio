@@ -1,4 +1,4 @@
-# IT Security Master Vorbereitung – Projektportfolio
+# IT Security Projektportfolio
 
 ## Zielsetzung
 Dieses Repository dokumentiert meine strukturierte Vorbereitung auf den Masterstudiengang **IT-Security** (FH Technikum Wien) und meine Positionierung als **AI Security Specialist** auf Executive-Level.  
