@@ -1,0 +1,6 @@
+Rule ID,Beschreibung,Kategorie,Risiko (H/M/L),Empfehlung,Status/Review
+AZ-01,Blob Storage erlaubt anonyme Zugriffe,Storage,Hoch,Öffentlichen Zugriff deaktivieren,
+AZ-02,Benutzer ohne MFA im Azure AD,IAM,Hoch,MFA für alle Benutzer erzwingen,
+AZ-03,NSG erlaubt RDP von 0.0.0.0/0,Netzwerk,Hoch,Nur Zugriff über VPN oder Jump Host zulassen,
+AZ-04,Azure Monitor nicht aktiviert,Monitoring,Mittel,Azure Monitor/Log Analytics aktivieren,
+AZ-05,SQL Database ohne Verschlüsselung,Datenbank,Mittel,Transparent Data Encryption (TDE) aktivieren,

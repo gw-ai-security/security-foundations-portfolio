@@ -1,0 +1,6 @@
+Rule ID,Beschreibung,Kategorie,Risiko (H/M/L),Empfehlung,Status/Review
+AWS-01,S3 Bucket erlaubt öffentlichen Zugriff,Storage,Hoch,Block Public Access aktivieren,
+AWS-02,IAM-User ohne MFA,IAM,Hoch,MFA aktivieren,
+AWS-03,Security Group erlaubt 0.0.0.0/0 auf Port 22,Netzwerk,Hoch,SSH nur über VPN oder Bastion Host zulassen,
+AWS-04,CloudTrail Logging deaktiviert,Monitoring,Mittel,CloudTrail aktivieren und zentral speichern,
+AWS-05,Unverschlüsselte EBS-Volumes,Storage,Mittel,Encryption by default aktivieren,
