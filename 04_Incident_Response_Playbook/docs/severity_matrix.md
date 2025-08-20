@@ -1,11 +1,11 @@
-# 📊 Incident Severity & Impact Matrix
+# Incident Severity & Impact Matrix
 
 Dieses Dokument beschreibt die Klassifikation von Sicherheitsvorfällen anhand von **Impact (Auswirkung)** und **Likelihood (Eintrittswahrscheinlichkeit)**.  
 Die Matrix dient als Grundlage für Eskalationsentscheidungen, Priorisierung und Reporting im Incident Response Prozess.
 
 ---
 
-## 🔹 Bewertungsdimensionen
+## Bewertungsdimensionen
 
 ### Impact (Auswirkung)
 - **High (H):** Kritische Systeme betroffen, Datenverlust oder DSGVO-Meldepflicht, geschäftskritische Prozesse unterbrochen
@@ -19,7 +19,7 @@ Die Matrix dient als Grundlage für Eskalationsentscheidungen, Priorisierung und
 
 ---
 
-## 🔹 Severity Matrix (Impact × Likelihood)
+## Severity Matrix (Impact × Likelihood)
 
 |                | **High Impact (H)**              | **Medium Impact (M)**            | **Low Impact (L)**             |
 |----------------|----------------------------------|----------------------------------|--------------------------------|
@@ -29,7 +29,7 @@ Die Matrix dient als Grundlage für Eskalationsentscheidungen, Priorisierung und
 
 ---
 
-## 🔹 Severity Levels – Definitionen
+## Severity Levels – Definitionen
 
 - **Critical:** Akuter Notfall. Geschäftsunterbrechung oder gesetzliche Meldepflicht. Sofortige Eskalation an CISO, DSB, Management und ggf. Behörden.  
 - **High:** Schwere Sicherheitsverletzung mit potenziell hohem Schaden. Innerhalb von Stunden bis maximal 24h behandeln.  
@@ -38,7 +38,7 @@ Die Matrix dient als Grundlage für Eskalationsentscheidungen, Priorisierung und
 
 ---
 
-## 🔹 Beispiele für Klassifikation
+## Beispiele für Klassifikation
 
 - **Critical (H/H):** Ransomware-Angriff mit Verschlüsselung produktiver Systeme, personenbezogene Daten betroffen (DSGVO-Meldepflicht).  
 - **High (H/M oder M/H):** Phishing-Angriff erfolgreich, Mitarbeiteraccount kompromittiert, Zugriff auf interne Systeme.  
@@ -47,7 +47,7 @@ Die Matrix dient als Grundlage für Eskalationsentscheidungen, Priorisierung und
 
 ---
 
-## 📑 Quellen & Standards
+## Quellen & Standards
 - NIST SP 800-61r2 – *Computer Security Incident Handling Guide*  
 - ISO/IEC 27001:2017 – A.16 *Information Security Incident Management*  
 - ENISA Threat Landscape Report  
