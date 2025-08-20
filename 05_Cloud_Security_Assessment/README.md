@@ -58,7 +58,7 @@ Das Projekt simuliert einen vollständigen Audit-Prozess: von der Checkliste üb
 
 ---
 ```bash
-project5-cloud-security-assessment/
+05-cloud-security-assessment/
 │
 ├── README.md                           # Projektübersicht (bereits erstellt)
 ├── glossary.md                         # Glossar mit allen Normen & Begriffen
