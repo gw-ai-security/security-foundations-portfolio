@@ -1,0 +1,38 @@
+{
+    "aws": {
+        "findings": [
+            {
+                "id": "aws-ec2-001",
+                "severity": "High",
+                "resource": "EC2 Security Group sg-12345",
+                "issue": "Allows inbound traffic from 0.0.0.0/0 on port 22 (SSH).",
+                "recommendation": "Restrict SSH access to trusted IPs or use a bastion host."
+            },
+            {
+                "id": "aws-s3-002",
+                "severity": "Medium",
+                "resource": "S3 Bucket my-logs",
+                "issue": "Bucket does not have server-side encryption enabled.",
+                "recommendation": "Enable default encryption for the bucket."
+            }
+        ]
+    },
+    "azure": {
+        "findings": [
+            {
+                "id": "azure-sql-001",
+                "severity": "High",
+                "resource": "Azure SQL Database db01",
+                "issue": "Database is accessible from all IP addresses.",
+                "recommendation": "Restrict access to specific IP ranges or use VNet service endpoints."
+            },
+            {
+                "id": "azure-storage-002",
+                "severity": "Medium",
+                "resource": "Blob Storage container01",
+                "issue": "Anonymous access to container is enabled.",
+                "recommendation": "Disable anonymous access and enforce authentication."
+            }
+        ]
+    }
+}

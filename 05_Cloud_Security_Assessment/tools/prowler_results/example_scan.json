@@ -1,0 +1,26 @@
+[
+    {
+        "CheckID": "check_aws_iam_mfa_enabled",
+        "Severity": "High",
+        "Resource": "IAM User: admin",
+        "Status": "Fail",
+        "Description": "IAM user 'admin' does not have MFA enabled.",
+        "Recommendation": "Enable MFA for all IAM users."
+    },
+    {
+        "CheckID": "check_aws_s3_bucket_public",
+        "Severity": "High",
+        "Resource": "S3 Bucket: my-company-data",
+        "Status": "Fail",
+        "Description": "S3 bucket 'my-company-data' is publicly accessible.",
+        "Recommendation": "Block public access and restrict permissions."
+    },
+    {
+        "CheckID": "check_aws_cloudtrail_enabled",
+        "Severity": "Medium",
+        "Resource": "CloudTrail",
+        "Status": "Fail",
+        "Description": "CloudTrail is not enabled in all regions.",
+        "Recommendation": "Enable CloudTrail across all regions for auditing."
+    }
+]
