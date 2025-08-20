@@ -67,7 +67,4 @@ Das Projekt simuliert einen vollständigen Audit-Prozess: von der Checkliste üb
 
 ---
 
-## Karriere- & Lernbezug
-Dieses Projekt stärkt meine **Cloud-Security-Audit-Kompetenz**, ein zentrales Thema in **Banken, Versicherungen und regulierten Branchen**.  
-Die Ergebnisse sind **auditfähig, interview-ready** und direkt auf **ISO 27017, NIST CSF und GDPR** anwendbar.  
-Damit positioniere ich mich als **Cloud Security Specialist** mit Management- und Audit-Fokus.  
+ 
