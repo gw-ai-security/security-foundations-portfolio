@@ -57,6 +57,37 @@ Das Projekt simuliert einen vollständigen Audit-Prozess: von der Checkliste üb
   - Optional: Virtuelle Testumgebung für Cloud-Accounts
 
 ---
+```bash
+project5-cloud-security-assessment/
+│
+├── README.md                           # Projektübersicht (bereits erstellt)
+├── glossary.md                         # Glossar mit allen Normen & Begriffen
+│
+├── cloud-security/
+│   ├── checklist_aws.xlsx              # Audit-Checkliste für AWS
+│   ├── checklist_azure.xlsx            # Audit-Checkliste für Azure
+│   └── compliance_mapping_iso_cis_nist.md   # Mapping auf ISO 27017, CIS Benchmarks, NIST CSF
+│
+├── docs/
+│   ├── cloud_risks_playbook.md         # Übersicht typischer Cloud-Risiken & Gegenmaßnahmen
+│   ├── methodology.md                  # Beschreibung der Auditmethodik & Tools
+│   └── references.md                   # Quellen, Standards, Normen
+│
+├── diagrams/
+│   ├── aws_architecture.drawio         # Beispielhafte Cloud-Architektur (AWS)
+│   ├── azure_architecture.drawio       # Beispielhafte Cloud-Architektur (Azure)
+│   └── risk_matrix.drawio              # Visualisierung der Risiko-Matrix
+│
+├── report/
+│   ├── cloud_assessment_summary.pdf    # Finaler Management-Report
+│   └── cloud_assessment_detailed.md    # Technischer Detailreport (Markdown)
+│
+└── tools/
+    ├── prowler_results/                # Ergebnisse aus Prowler (AWS CLI Audit Tool)
+    │   └── example_scan.json
+    └── scoutsuite_results/             # Ergebnisse aus ScoutSuite (Multi-Cloud)
+        └── example_scan.json
+```
 
 ## Deliverables
 - `cloud-security/checklist_aws.xlsx` – Audit-Checkliste für AWS  
