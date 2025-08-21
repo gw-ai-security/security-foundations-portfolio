@@ -11,8 +11,8 @@ Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 
 | 1       | CIA-Trias, STRIDE, Frameworks         | Foundation (P1) | ✅ abgeschlossen | 2025-07-25     | 2025-08-25       |
 | 2       | Firewall Rule Audit                   | Foundation (P2) | ✅ abgeschlossen        | –              | –                |
 | 3       | IAM Audit                             | Core (P3)       | ✅ abgeschlossen          | –              | –                |
-| 4       | Incident Response Playbook            | Core (P4)       | ❏ offen         | –              | –                |
-| 5       | Cloud Security Assessment             | Core (P5)       | ❏ offen         | –              | –                |
+| 4       | Incident Response Playbook            | Core (P4)       | ✅ abgeschlossen        | –              | –                |
+| 5       | Cloud Security Assessment             | Core (P5)       | ✅ abgeschlossen        | –              | –                |
 | 6       | Vulnerability Management System       | Advanced (P6)   | ❏ offen         | –              | –                |
 | 7       | GRC Dashboard                         | Advanced (P7)   | ❏ offen         | –              | –                |
 | 8       | Web Application Security Assessment   | Advanced (P8)   | ❏ offen         | –              | –                |
