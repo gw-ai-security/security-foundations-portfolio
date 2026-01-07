@@ -1,7 +1,7 @@
 # IT Security Projektportfolio
 
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](https://github.com)
-[![Projects](https://img.shields.io/badge/Projects-6%2F11%20Complete-blue)](https://github.com)
+[![Projects](https://img.shields.io/badge/Projects-7%2F11%20Complete-blue)](https://github.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Über dieses Portfolio
@@ -20,7 +20,7 @@ Es umfasst **11 praxisorientierte Projekte**, die alle Phasen moderner Cybersecu
 |--------|---------|
 | **Fokus** | IT-Security, Cloud Security, GRC, AI Security |
 | **Zeitraum** | 12–18 Monate strukturiertes Lernen |
-| **Projektanzahl** | 11 Projekte, 6 abgeschlossen |
+| **Projektanzahl** | 11 Projekte, 7 abgeschlossen |
 | **Standards** | ISO 27001, NIST CSF, GDPR, EU AI Act |
 | **Hands-on** | Praktische Übungen, Audit-Ready Reports |
 
@@ -34,6 +34,7 @@ Es umfasst **11 praxisorientierte Projekte**, die alle Phasen moderner Cybersecu
 | **Incident Response** | NIST IR Lifecycle, Playbooks, DSGVO Art. 33 | [P4 - IR Playbook](04_Incident_Response_Playbook/) |
 | **Cloud Security** | AWS/Azure, CIS Benchmarks, Shared Responsibility | [P5 - Cloud Assessment](05_Cloud_Security_Assessment/) |
 | **Vulnerability Mgmt** | CVSS v3.1, Patch Management, Risk-Based Prioritization | [P6 - VMS](06_Vulnerability_Management/) |
+| **GRC & BCDR** | Risk Register, KPI Dashboard, BIA, Compliance Mapping | [P7 - GRC Dashboard](07_GRC_Dashboard/) |
 
 ---
 
@@ -59,7 +60,7 @@ Es umfasst **11 praxisorientierte Projekte**, die alle Phasen moderner Cybersecu
 | # | Projekt | Status | Key Deliverables |
 |---|---------|--------|------------------|
 | 6 | [Vulnerability Management](06_Vulnerability_Management/) | ✅ | CVSS Guide, Scan Templates, Remediation Plan |
-| 7 | GRC Dashboard (inkl. BCDR) | ❏ | Risk Register, KPI-Dashboard, BIA Template |
+| 7 | [GRC Dashboard](07_GRC_Dashboard/) | ✅ | Risk Register, KPI-Dashboard, BIA Template, BCDR, EU AI Act Mapping |
 | 8 | Web Application Security | ❏ | OWASP Top 10, API Security, Secure Code Review |
 
 ### Phase 4 – Spezialisierung & Master Prep ❏
@@ -108,6 +109,7 @@ Nach Abschluss aller 11 Projekte:
 - ✅ Audit- und Compliance-Kompetenz (ISO, NIST, GDPR, EU AI Act)
 - ✅ Hands-on Technical Security Skills
 - ✅ Executive Skills (GRC, KPI, Reporting, Playbooks)
+- ✅ GRC & Business Continuity Skills
 - ❏ Spezialisierung auf AI/LLM Security
 
 ---

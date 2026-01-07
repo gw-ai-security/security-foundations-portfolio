@@ -14,7 +14,7 @@ Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 
 | 4 | Incident Response Playbook | Core | ✅ abgeschlossen | 2026-01-07 |
 | 5 | Cloud Security Assessment | Core | ✅ abgeschlossen | 2026-01-07 |
 | 6 | Vulnerability Management System | Advanced | ✅ abgeschlossen | 2026-01-07 |
-| 7 | GRC Dashboard | Advanced | ❏ offen | – |
+| 7 | GRC Dashboard (inkl. BCDR) | Advanced | ✅ abgeschlossen | 2026-01-07 |
 | 8 | Web Application Security Assessment | Advanced | ❏ offen | – |
 | 9 | Forensic Investigation Lab | Spezialisierung | ❏ offen | – |
 | 10 | AI/LLM Security Red Team Lab | Spezialisierung | ❏ offen | – |
@@ -22,7 +22,7 @@ Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 
 
 ---
 
-## Skills-Matrix (Projekte 1-6)
+## Skills-Matrix (Projekte 1-7)
 
 | Skill | Projekt | Level | Relevanz |
 |-------|---------|-------|----------|
@@ -38,6 +38,12 @@ Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 
 | CVSS Scoring | P6 | ✅ Erlernt | Vulnerability Prioritization |
 | Compliance Mapping | P1-P6 | ✅ Erlernt | Audit-Ready Documentation |
 | Executive Reporting | P1-P6 | ✅ Erlernt | Management Communication |
+| Risk Management | P7 | ✅ Erlernt | Risk Register, Risk Assessment |
+| GRC Framework | P7 | ✅ Erlernt | Governance, Risk, Compliance |
+| KPI Design | P7 | ✅ Erlernt | Security Metrics |
+| BIA | P7 | ✅ Erlernt | Business Impact Analysis |
+| BCDR Planning | P7 | ✅ Erlernt | Business Continuity & DR |
+| EU AI Act | P7 | ✅ Erlernt | AI Governance & Compliance |
 
 ---
 
@@ -58,23 +64,17 @@ Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 
 ```
 Phase 1 - Foundation:    [████████████████████] 100% (2/2)
 Phase 2 - Core:          [████████████████████] 100% (3/3)  
-Phase 3 - Advanced:      [██████░░░░░░░░░░░░░░]  33% (1/3)
+Phase 3 - Advanced:      [█████████████░░░░░░░]  67% (2/3)
 Phase 4 - Spezialisierung: [░░░░░░░░░░░░░░░░░░░░]   0% (0/3)
 
-Gesamt:                  [████████████░░░░░░░░]  55% (6/11)
+Gesamt:                  [██████████████░░░░░░]  64% (7/11)
 ```
 
 ---
 
 ## Nächste Schritte
 
-### Priorität 1: GRC Dashboard (Projekt 7)
-- Risk Register erstellen
-- KPI-Dashboard entwickeln
-- BIA Template
-- ISO/GDPR/AI Act Mapping
-
-### Priorität 2: Web Application Security (Projekt 8)
+### Priorität 1: Web Application Security (Projekt 8)
 - OWASP Top 10 Checkliste
 - API Security Assessment
 - Secure Code Review Basics
@@ -91,12 +91,13 @@ Gesamt:                  [████████████░░░░░░
 | 4 - Incident Response | ✅ | ✅ (Szenarien) | ✅ | ✅ |
 | 5 - Cloud Security | ✅ | ✅ | ✅ | ✅ |
 | 6 - Vulnerability Mgmt | ✅ | ✅ | ✅ | ✅ |
+| 7 - GRC Dashboard | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
 ## Interview-Ready Checkliste
 
-Nach Abschluss der Projekte 1-6 kannst du folgende Fragen beantworten:
+Nach Abschluss der Projekte 1-7 kannst du folgende Fragen beantworten:
 
 ### Grundlagen
 - [ ] Erkläre die CIA-Trias mit Beispielen
@@ -117,6 +118,14 @@ Nach Abschluss der Projekte 1-6 kannst du folgende Fragen beantworten:
 - [ ] Beschreibe den Incident Response Lifecycle
 - [ ] Wie priorisierst du Schwachstellen?
 - [ ] Was gehört in einen Access Review?
+
+### GRC & BCDR (Projekt 7)
+- [ ] Was ist der Unterschied zwischen Inherent und Residual Risk?
+- [ ] Wie erstellst du ein Risk Register?
+- [ ] Erkläre RTO vs. RPO
+- [ ] Was gehört in eine Business Impact Analysis?
+- [ ] Wie mappst du Controls zu ISO 27001, GDPR und EU AI Act?
+- [ ] Was sind die wichtigsten Security KPIs für Executive Reporting?
 
 ---
 
