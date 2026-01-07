@@ -36,12 +36,18 @@ Das Projekt simuliert einen vollständigen Audit-Prozess: von der Checkliste üb
 
 ---
 
-## Erwartete Skills
-- Durchführung einer **Cloud-Sicherheitsprüfung** (AWS/Azure)  
-- Anwendung von **Security-Benchmarks & Standards**  
-- Erstellung und Nutzung von **Checklisten & Risiko-Matrizen**  
-- **Reporting-Fähigkeiten** für Management und Audit  
-- Vergleich von Cloud-Umgebungen im Sicherheitskontext  
+## Lernziele & erworbene Skills
+
+Nach Abschluss dieses Projekts kannst du:
+
+| Skill | Beschreibung | Relevanz für Karriere |
+|-------|--------------|----------------------|
+| Cloud Security Assessment | Systematische Prüfung von AWS/Azure-Umgebungen | Cloud Security Consultant |
+| Shared Responsibility | Verantwortlichkeiten zwischen Provider und Kunde verstehen | Cloud-Architektur |
+| CIS Benchmarks | Hardening-Standards für Cloud-Konfigurationen anwenden | Compliance & Audit |
+| ISO 27017 | Cloud-spezifische Sicherheitskontrollen kennen | Zertifizierungsvorbereitung |
+| Risk Assessment | Cloud-Risiken identifizieren und bewerten | Management Reporting |
+| Tools (Prowler/ScoutSuite) | Automatisierte Cloud-Security-Scans durchführen | Hands-on Security |  
 
 ---
 
@@ -89,12 +95,35 @@ Das Projekt simuliert einen vollständigen Audit-Prozess: von der Checkliste üb
         └── example_scan.json
 ```
 
-## Deliverables
-- `cloud-security/checklist_aws.xlsx` – Audit-Checkliste für AWS  
-- `cloud-security/checklist_azure.xlsx` – Audit-Checkliste für Azure  
-- `cloud-security/compliance_mapping_iso_cis_nist.md` – Framework-Mapping  
-- `docs/cloud_risks_playbook.md` – Playbook mit typischen Risiken & Gegenmaßnahmen  
-- `report/cloud_assessment_summary.pdf` – Management-tauglicher Risikoüberblick  
+## Selbstbewertungs-Checkliste
+
+- [ ] Ich kann das Shared Responsibility Model für IaaS/PaaS/SaaS erklären
+- [ ] Ich kenne die Top 5 Cloud-Security-Risiken
+- [ ] Ich kann CIS Benchmarks auf AWS/Azure anwenden
+- [ ] Ich verstehe ISO 27017 Cloud Controls
+- [ ] Ich kann einen Cloud Security Assessment Report erstellen
+- [ ] Ich kann Tools wie Prowler oder ScoutSuite nutzen
+
+---
+
+## Projekt-Deliverables
+
+| Deliverable | Datei | Status |
+|-------------|-------|--------|
+| Compliance Mapping | `cloud_security/compliance_mapping_iso_cis_nist.md` | ✅ |
+| Cloud Risks Playbook | `docs/cloud_risks_playbook.md` | ✅ |
+| Methodology | `docs/methodology.md` | ✅ |
+| References | `docs/references.md` | ✅ |
+| AWS Architecture | `diagrams/aws_architecture.md` | ✅ |
+| Azure Architecture | `diagrams/azure_architecture.md` | ✅ |
+| Risk Matrix | `diagrams/risk_matrix.md` | ✅ |
+| Shared Responsibility Model | `diagrams/shared_responsibility_model.md` | ✅ |
+| Assessment Report | `report/cloud_security_assessment_report.md` | ✅ |
+| Detailed Report | `report/cloud_assessment_detailed.md` | ✅ |
+| Glossary | `glossary.md` | ✅ |
+| AWS CLI Commands | `tools/aws_cli_commands.md` | ✅ |
+
+**Status: ✅ ABGESCHLOSSEN**  
 
 ---
 

@@ -1,35 +1,123 @@
-# Learning Dashboard – Projektübersicht
+# Learning Dashboard – IT-Security Lernportfolio
 
-Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 Phasen deiner IT-Security-Lernleiter. Ziel ist es, alle Projekte auditfähig, dokumentiert und GitHub-kompatibel umzusetzen.
+Dieses Dashboard dient zur Fortschrittsverfolgung der 11 Projekte entlang der 4 Phasen der IT-Security-Lernleiter. Ziel ist es, alle Projekte auditfähig, dokumentiert und GitHub-kompatibel umzusetzen.
 
 ---
 
 ## Projektstatus-Übersicht
 
-| Projekt | Titel                                 | Phase     | Status        | Letztes Update | Geplante Review |
-|---------|----------------------------------------|-----------|----------------|----------------|------------------|
-| 1       | CIA-Trias, STRIDE, Frameworks         | Foundation (P1) | ✅ abgeschlossen | 2025-07-25     | 2025-08-25       |
-| 2       | Firewall Rule Audit                   | Foundation (P2) | ✅ abgeschlossen        | –              | –                |
-| 3       | IAM Audit                             | Core (P3)       | ✅ abgeschlossen          | –              | –                |
-| 4       | Incident Response Playbook            | Core (P4)       | ✅ abgeschlossen        | –              | –                |
-| 5       | Cloud Security Assessment             | Core (P5)       | ✅ abgeschlossen        | –              | –                |
-| 6       | Vulnerability Management System       | Advanced (P6)   | ❏ offen         | –              | –                |
-| 7       | GRC Dashboard                         | Advanced (P7)   | ❏ offen         | –              | –                |
-| 8       | Web Application Security Assessment   | Advanced (P8)   | ❏ offen         | –              | –                |
-| 9       | Forensic Investigation Lab            | Spezialisierung (P9) | ❏ offen     | –              | –                |
-| 10      | AI/LLM Security Red Team Lab          | Spezialisierung (P10)| ❏ offen     | –              | –                |
-| 11      | Security Metrics & KPI Framework      | Spezialisierung (P11)| ❏ offen     | –              | –                |
+| Projekt | Titel | Phase | Status | Letztes Update |
+|---------|-------|-------|--------|----------------|
+| 1 | Security Foundations (CIA, STRIDE, Frameworks) | Foundation | ✅ abgeschlossen | 2026-01-07 |
+| 2 | Firewall Rule Audit | Foundation | ✅ abgeschlossen | 2026-01-07 |
+| 3 | IAM Audit | Core | ✅ abgeschlossen | 2026-01-07 |
+| 4 | Incident Response Playbook | Core | ✅ abgeschlossen | 2026-01-07 |
+| 5 | Cloud Security Assessment | Core | ✅ abgeschlossen | 2026-01-07 |
+| 6 | Vulnerability Management System | Advanced | ✅ abgeschlossen | 2026-01-07 |
+| 7 | GRC Dashboard | Advanced | ❏ offen | – |
+| 8 | Web Application Security Assessment | Advanced | ❏ offen | – |
+| 9 | Forensic Investigation Lab | Spezialisierung | ❏ offen | – |
+| 10 | AI/LLM Security Red Team Lab | Spezialisierung | ❏ offen | – |
+| 11 | Security Metrics & KPI Framework | Spezialisierung | ❏ offen | – |
+
+---
+
+## Skills-Matrix (Projekte 1-6)
+
+| Skill | Projekt | Level | Relevanz |
+|-------|---------|-------|----------|
+| CIA-Trias | P1 | ✅ Erlernt | Grundlage jeder Security-Analyse |
+| STRIDE/DREAD | P1 | ✅ Erlernt | Threat Modeling |
+| ISO 27001 | P1-P6 | ✅ Erlernt | Compliance & Audit |
+| NIST CSF | P1-P6 | ✅ Erlernt | Risk Framework |
+| Firewall Audit | P2 | ✅ Erlernt | Network Security |
+| IAM/RBAC | P3 | ✅ Erlernt | Identity Management |
+| Incident Response | P4 | ✅ Erlernt | SOC Operations |
+| Cloud Security | P5 | ✅ Erlernt | AWS/Azure Security |
+| Vulnerability Mgmt | P6 | ✅ Erlernt | Risk Assessment |
+| CVSS Scoring | P6 | ✅ Erlernt | Vulnerability Prioritization |
+| Compliance Mapping | P1-P6 | ✅ Erlernt | Audit-Ready Documentation |
+| Executive Reporting | P1-P6 | ✅ Erlernt | Management Communication |
 
 ---
 
 ## Fortschrittslegende
 
-- ✅ abgeschlossen  
-- 🔜 geplant (als nächstes in Arbeit)  
-- ❏ offen (noch nicht gestartet)  
-- 🟡 in Arbeit (Teilmodule laufen)  
-- 🔁 in Review / Refactoring  
+| Symbol | Status |
+|--------|--------|
+| ✅ | abgeschlossen |
+| 🔜 | geplant (als nächstes in Arbeit) |
+| ❏ | offen (noch nicht gestartet) |
+| 🟡 | in Arbeit (Teilmodule laufen) |
+| 🔁 | in Review / Refactoring |
 
 ---
 
-> Dieses Dashboard wird laufend aktualisiert. Es dient zur Reflexion, Planung und strukturierten Umsetzung deiner Security-Karriereziele.
+## Gesamtfortschritt
+
+```
+Phase 1 - Foundation:    [████████████████████] 100% (2/2)
+Phase 2 - Core:          [████████████████████] 100% (3/3)  
+Phase 3 - Advanced:      [██████░░░░░░░░░░░░░░]  33% (1/3)
+Phase 4 - Spezialisierung: [░░░░░░░░░░░░░░░░░░░░]   0% (0/3)
+
+Gesamt:                  [████████████░░░░░░░░]  55% (6/11)
+```
+
+---
+
+## Nächste Schritte
+
+### Priorität 1: GRC Dashboard (Projekt 7)
+- Risk Register erstellen
+- KPI-Dashboard entwickeln
+- BIA Template
+- ISO/GDPR/AI Act Mapping
+
+### Priorität 2: Web Application Security (Projekt 8)
+- OWASP Top 10 Checkliste
+- API Security Assessment
+- Secure Code Review Basics
+
+---
+
+## Verfügbare Ressourcen pro Projekt
+
+| Projekt | README | Praktische Übungen | Glossar | Report |
+|---------|--------|-------------------|---------|--------|
+| 1 - Security Foundations | ✅ | ✅ | ✅ | - |
+| 2 - Firewall Audit | ✅ | ✅ | ✅ | ✅ |
+| 3 - IAM Audit | ✅ | ✅ | ✅ | ✅ |
+| 4 - Incident Response | ✅ | ✅ (Szenarien) | ✅ | ✅ |
+| 5 - Cloud Security | ✅ | ✅ | ✅ | ✅ |
+| 6 - Vulnerability Mgmt | ✅ | ✅ | ✅ | ✅ |
+
+---
+
+## Interview-Ready Checkliste
+
+Nach Abschluss der Projekte 1-6 kannst du folgende Fragen beantworten:
+
+### Grundlagen
+- [ ] Erkläre die CIA-Trias mit Beispielen
+- [ ] Was ist der Unterschied zwischen Threat und Vulnerability?
+- [ ] Wie funktioniert STRIDE Threat Modeling?
+
+### Compliance & Standards
+- [ ] Was sind die Hauptunterschiede zwischen ISO 27001 und NIST CSF?
+- [ ] Welche DSGVO-Artikel betreffen IT-Security direkt?
+- [ ] Wie mappst du eine Sicherheitsmaßnahme auf einen Standard?
+
+### Technisch
+- [ ] Wie führst du einen Firewall-Audit durch?
+- [ ] Was ist das Shared Responsibility Model in der Cloud?
+- [ ] Wie berechnest du einen CVSS Score?
+
+### Prozesse
+- [ ] Beschreibe den Incident Response Lifecycle
+- [ ] Wie priorisierst du Schwachstellen?
+- [ ] Was gehört in einen Access Review?
+
+---
+
+> **Tipp:** Dieses Dashboard regelmäßig aktualisieren und als Gesprächsgrundlage für Interviews nutzen!

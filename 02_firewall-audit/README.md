@@ -101,13 +101,13 @@ Anleitung: siehe [`docs/firewall_audit_guide.md`](./docs/firewall_audit_guide.md
 
 ## Deliverables
 
-| Datei                          | Zweck                                             |
-|--------------------------------|----------------------------------------------------|
-| `firewall_checklist_template.xlsx` | Zentrale Arbeitsbasis für die Analyse            |
-| `firewall_risk_matrix.xlsx`        | Tool zur strukturierten Risikoeinstufung         |
-| `firewall_audit_guide.md`         | Schritt-für-Schritt-Anleitung zur Durchführung    |
-| `mapping_iso_nist.md`             | Regulatorische Verankerung (ISO/NIST Mapping)     |
-| `firewall_audit_report.pdf`       | Dokumentierter, auditfähiger Ergebnisreport       |
+| Datei                          | Zweck                                             | Status |
+|--------------------------------|----------------------------------------------------| ------ |
+| `docs/firewall_audit_guide.md`         | Schritt-für-Schritt-Anleitung zur Durchführung    | ✅ |
+| `docs/mapping_iso_nist.md`             | Regulatorische Verankerung (ISO/NIST Mapping)     | ✅ |
+| `docs/mapping_iso_nist_v1.1.md`        | Erweitertes Mapping für ISO 27001:2022           | ✅ |
+| `reports/firewall_audit_report.md`     | Dokumentierter, auditfähiger Ergebnisreport       | ✅ |
+| `glossary.md`                          | Fachbegriffe Firewall & Netzwerk-Security        | ✅ |
 
 ---
 
@@ -117,6 +117,35 @@ Anleitung: siehe [`docs/firewall_audit_guide.md`](./docs/firewall_audit_guide.md
 - Frei verwendbar mit Attribution
 - Die Excel-Vorlagen sind individuell anpassbar für unterschiedliche Infrastrukturen
 - Entwickelt für Schulungs-, Consulting- und Audit-Zwecke
+
+---
+
+---
+
+## Lernziele & erworbene Skills
+
+Nach Abschluss dieses Projekts kannst du:
+
+| Skill | Beschreibung | Relevanz für Karriere |
+|-------|--------------|----------------------|
+| Firewall-Regelwerke analysieren | Regeln systematisch bewerten und dokumentieren | Core Security Skill |
+| Risikobewertung | Impact × Likelihood Matrix anwenden | Grundlage für Priorisierung |
+| Compliance-Mapping | ISO 27001 & NIST CSF Controls zuordnen | Audit-Vorbereitung |
+| Auditfähige Dokumentation | Professionelle Reports erstellen | Interview- & Portfolio-Ready |
+| Netzwerk-Security Grundlagen | Paketfilter, Zonen, ACLs verstehen | Basis für Network Security |
+
+---
+
+## Selbstbewertungs-Checkliste
+
+Prüfe nach Abschluss des Projekts:
+
+- [ ] Ich kann eine Firewall-Regel anhand von Quelle/Ziel/Port/Protokoll beschreiben
+- [ ] Ich verstehe den Unterschied zwischen Stateful und Stateless Firewalls
+- [ ] Ich kann eine Risikobewertung (Impact × Likelihood) durchführen
+- [ ] Ich weiß, welche ISO 27001 Controls für Netzwerksicherheit relevant sind
+- [ ] Ich kann typische Schwachstellen in Firewall-Konfigurationen erkennen
+- [ ] Ich kann einen auditfähigen Firewall-Report erstellen
 
 ---
 

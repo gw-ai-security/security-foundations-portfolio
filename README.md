@@ -1,94 +1,181 @@
 # IT Security Projektportfolio
 
-## Zielsetzung
-Dieses Repository dokumentiert meine strukturierte Vorbereitung auf den Masterstudiengang **IT-Security** (FH Technikum Wien) und meine Positionierung als **AI Security Specialist** auf Executive-Level.  
-Es umfasst **11 praxisorientierte Projekte**, die alle Phasen moderner Cybersecurity abbilden: von Grundlagen über Core Security bis hin zu Spezialisierung & Master-Thesis-Track.  
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](https://github.com)
+[![Projects](https://img.shields.io/badge/Projects-6%2F11%20Complete-blue)](https://github.com)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-- Dauer: 12–18 Monate  
-- Fokus: Hands-on Projekte, GitHub-Dokumentation, Audit- und Interview-Ready Deliverables  
-- Karrierepfad: Security Manager Track + AI/LLM Security Spezialisierung  
-- Compliance-Bezug: ISO 27001, NIST CSF, GDPR, EU AI Act  
+## Über dieses Portfolio
+
+Dieses Repository dokumentiert meine strukturierte Vorbereitung auf den Masterstudiengang **IT-Security** (FH Technikum Wien) und meine Positionierung als **AI Security Specialist** auf Executive-Level.
+
+Es umfasst **11 praxisorientierte Projekte**, die alle Phasen moderner Cybersecurity abbilden: von Grundlagen über Core Security bis hin zu Spezialisierung & Master-Thesis-Track.
+
+---
+
+## Für Recruiter & Hiring Manager
+
+### Auf einen Blick
+
+| Aspekt | Details |
+|--------|---------|
+| **Fokus** | IT-Security, Cloud Security, GRC, AI Security |
+| **Zeitraum** | 12–18 Monate strukturiertes Lernen |
+| **Projektanzahl** | 11 Projekte, 6 abgeschlossen |
+| **Standards** | ISO 27001, NIST CSF, GDPR, EU AI Act |
+| **Hands-on** | Praktische Übungen, Audit-Ready Reports |
+
+### Demonstrierte Skills
+
+| Kategorie | Skills | Projekt-Referenz |
+|-----------|--------|------------------|
+| **Security Fundamentals** | CIA-Trias, STRIDE, DREAD, Threat Modeling | [P1 - Security Foundations](01_Sec_Foundations/) |
+| **Network Security** | Firewall Audits, Risikobewertung, Compliance | [P2 - Firewall Audit](02_firewall-audit/) |
+| **Identity & Access** | RBAC, Least Privilege, Access Reviews | [P3 - IAM Audit](03_iam-audit/) |
+| **Incident Response** | NIST IR Lifecycle, Playbooks, DSGVO Art. 33 | [P4 - IR Playbook](04_Incident_Response_Playbook/) |
+| **Cloud Security** | AWS/Azure, CIS Benchmarks, Shared Responsibility | [P5 - Cloud Assessment](05_Cloud_Security_Assessment/) |
+| **Vulnerability Mgmt** | CVSS v3.1, Patch Management, Risk-Based Prioritization | [P6 - VMS](06_Vulnerability_Management/) |
 
 ---
 
 ## Projektübersicht
 
-### Phase 1 – Foundation Projects
-1. IT-Security-Grundlagen-Portfolio  
-   - Lerninhalte: CIA-Trias, Security Frameworks (ISO/NIST/GDPR), GitHub & Markdown  
-   - Deliverables: Grundlagen-Dokumentation, Diagramme, Learning Dashboard  
+### Phase 1 – Foundation Projects ✅
 
-2. Firewall Rule Audit Template  
-   - Lerninhalte: Paketfilter, Risikobewertung, ISO/NIST Mapping  
-   - Deliverables: Checkliste, Risiko-Matrix, Audit Guide, Report (PDF)  
+| # | Projekt | Status | Key Deliverables |
+|---|---------|--------|------------------|
+| 1 | [Security Foundations](01_Sec_Foundations/) | ✅ | CIA, STRIDE/DREAD, Framework-Vergleich, Praktische Übungen |
+| 2 | [Firewall Rule Audit](02_firewall-audit/) | ✅ | Audit-Checkliste, Risiko-Matrix, ISO/NIST Mapping |
 
----
+### Phase 2 – Core Security Projects ✅
 
-### Phase 2 – Core Security Projects
-3. Identity & Access Management Audit  
-   - Lerninhalte: RBAC, Least Privilege, Rechtematrix, GDPR/ISO Mapping  
-   - Deliverables: Rollenmodell, Rechtematrix, Audit Guide, Sample Report  
+| # | Projekt | Status | Key Deliverables |
+|---|---------|--------|------------------|
+| 3 | [IAM Audit](03_iam-audit/) | ✅ | Rollenmodell, Rechtematrix, Access Review Guide |
+| 4 | [Incident Response Playbook](04_Incident_Response_Playbook/) | ✅ | IR-Lifecycle, 3 Szenarien, Templates, DSGVO-Mapping |
+| 5 | [Cloud Security Assessment](05_Cloud_Security_Assessment/) | ✅ | AWS/Azure Checklisten, Compliance Mapping, Assessment Report |
 
-4. Incident Response Playbook  
-   - Lerninhalte: NIST Incident Lifecycle, Eskalationspfade, DSGVO Art. 33  
-   - Deliverables: Response-Template, Szenarien (Phishing, Ransomware, Insider Threat), Reporting-Formular, Lessons Learned  
+### Phase 3 – Advanced Security Projects 🟡
 
-5. Cloud Security Assessment  
-   - Lerninhalte: AWS/Azure IAM, Shared Responsibility, Cloud-Risiken, CIS Benchmarks  
-   - Deliverables: Checklisten, Compliance Mapping, Risiko-Playbook, Assessment Report  
+| # | Projekt | Status | Key Deliverables |
+|---|---------|--------|------------------|
+| 6 | [Vulnerability Management](06_Vulnerability_Management/) | ✅ | CVSS Guide, Scan Templates, Remediation Plan |
+| 7 | GRC Dashboard (inkl. BCDR) | ❏ | Risk Register, KPI-Dashboard, BIA Template |
+| 8 | Web Application Security | ❏ | OWASP Top 10, API Security, Secure Code Review |
 
----
+### Phase 4 – Spezialisierung & Master Prep ❏
 
-### Phase 3 – Advanced Security Projects
-6. Vulnerability Management System  
-   - Lerninhalte: CVSS v3.1, Scanning (OpenVAS/Nessus), Risk-Based Patch Management  
-   - Deliverables: Scan Reports, CVSS-Guide, Remediation Plan, Reporting  
-
-7. GRC Dashboard (inkl. BCDR)  
-   - Lerninhalte: Risiko-Monitoring, ISO/GDPR/AI Act Mapping, KPI-Design  
-   - Deliverables: Risk Register, KPI-Dashboard, BIA Template, Summary Board  
-
-8. Web Application Security Assessment  
-   - Lerninhalte: OWASP Top 10, API Security, Secure Code Review  
-   - Deliverables: Checklisten, Test Reports, Secure Code Review, Final Report  
+| # | Projekt | Status | Key Deliverables |
+|---|---------|--------|------------------|
+| 9 | Forensic Investigation Lab | ❏ | Evidence Handling, Timeline Analysis, Case Report |
+| 10 | AI/LLM Security Red Team Lab | ❏ | Prompt Injection, EU AI Act Mapping, Threat Models |
+| 11 | Security Metrics & KPI Framework | ❏ | KPI Definitions, Automation, Whitepaper |
 
 ---
 
-### Phase 4 – Spezialisierung & Master Prep
-9. Forensic Investigation Lab  
-   - Lerninhalte: Evidence Handling, Disk-Image-Analyse, Chain-of-Custody  
-   - Deliverables: Evidence Chain, Timeline Analysis, Methodology Docs, Case Report  
+## Was macht dieses Portfolio besonders?
 
-10. AI/LLM Security Red Team Lab  
-   - Lerninhalte: Prompt Injection, Jailbreaks, Adversarial Prompts, EU AI Act Risk Mapping  
-   - Deliverables: Angriffsszenarien, Threat Models, Logs, AI Act Mapping, Red Team Summary  
+### Lernportfolio-Konzept
 
-11. Security Metrics & KPI Framework (Thesis Prep)  
-   - Lerninhalte: KPI-Definition, Automatisiertes Reporting, Dashboards  
-   - Deliverables: KPI Definitions, Automation Notebook, Dashboard, Whitepaper  
+Jedes Projekt ist so aufgebaut, dass es als **Lernressource** dient:
 
----
+- **README** mit Lernzielen und Skills-Matrix
+- **Praktische Übungen** mit Musterlösungen
+- **Glossar** mit Fachbegriffen
+- **Selbstbewertungs-Checkliste**
+- **Audit-Ready Reports**
 
-## Struktur & Tools
-- Dokumentation: Markdown (VS Code, Obsidian), PDF Export  
-- Diagramme: draw.io / diagrams.net  
-- Tabellen & Checklisten: Google Sheets / LibreOffice  
-- Technische Labs: VirtualBox/Kali, AWS/Azure Free Tier, OpenVAS, OWASP ZAP  
-- Spezialtools: Autopsy, LangChain, Nessus, Python (pandas, matplotlib)  
+### Recruiter-Freundlich
+
+- Klare Struktur und Navigation
+- Nachvollziehbare Kompetenzentwicklung
+- Interview-Ready Dokumentation
+- Compliance-Mapping (ISO 27001, NIST, GDPR)
+
+### Hands-on Fokus
+
+- Keine reine Theorie
+- Praktische Übungen mit echten Szenarien
+- Tools: OpenVAS, Prowler, AWS CLI, draw.io
+- Auditfähige Deliverables
 
 ---
 
 ## Erwartete Learnings
-- Solide IT-Security-Basis (CIA, Threats, Frameworks)  
-- Audit- und Compliance-Kompetenz (ISO, NIST, GDPR, EU AI Act)  
-- Hands-on Technical Security Skills (Firewalls, IAM, Cloud, Web, Forensics, Vulnerability Mgmt)  
-- Aufbau von Executive Skills (GRC, KPI, Reporting, Playbooks)  
-- Spezialisierung auf AI/LLM Security – mit direktem Bezug zum AI Act  
+
+Nach Abschluss aller 11 Projekte:
+
+- ✅ Solide IT-Security-Basis (CIA, Threats, Frameworks)
+- ✅ Audit- und Compliance-Kompetenz (ISO, NIST, GDPR, EU AI Act)
+- ✅ Hands-on Technical Security Skills
+- ✅ Executive Skills (GRC, KPI, Reporting, Playbooks)
+- ❏ Spezialisierung auf AI/LLM Security
+
+---
+
+## Struktur & Tools
+
+| Kategorie | Tools |
+|-----------|-------|
+| Dokumentation | Markdown (VS Code, Obsidian), PDF Export |
+| Diagramme | draw.io / diagrams.net, Mermaid |
+| Tabellen & Checklisten | Google Sheets / LibreOffice |
+| Technische Labs | VirtualBox/Kali, AWS/Azure Free Tier |
+| Security Tools | OpenVAS, Prowler, ScoutSuite, OWASP ZAP |
+| Spezialtools | Autopsy, LangChain, Nessus, Python |
+
+---
+
+## Quick Start
+
+```bash
+# Repository klonen
+git clone https://github.com/[username]/it-security-portfolio.git
+
+# Zu einem Projekt navigieren
+cd 01_Sec_Foundations
+
+# README lesen und mit den Übungen beginnen
+```
+
+---
+
+## Fortschritt tracken
+
+Siehe [Learning Dashboard](learning_dashboard.md) für den aktuellen Fortschritt und die Skills-Matrix.
 
 ---
 
 ## Absicht & Karrierebezug
-Dieses Portfolio dient als vollständiger Nachweis meiner praktischen und strategischen Kompetenzen:  
-- Audit- und Interview-ready Projekte  
-- Direkter Bezug zu Banking/Insurance Security & Compliance  
-- Vorbereitung auf 500k €+ Rollen als AI Security Specialist / CISO Track  
+
+Dieses Portfolio dient als vollständiger Nachweis praktischer und strategischer Kompetenzen:
+
+- **Audit- und Interview-ready** Projekte
+- Direkter Bezug zu **Banking/Insurance Security & Compliance**
+- Vorbereitung auf **Security Manager Track + AI/LLM Security Spezialisierung**
+- Ziel: Executive-Level Positionen im Security-Bereich
+
+---
+
+## Lizenz
+
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
+Die Inhalte dürfen frei genutzt, verändert und weitergegeben werden – inklusive kommerzieller Nutzung.
+
+---
+
+## Kontakt & Mitwirken
+
+Fehler entdeckt oder Verbesserungsvorschläge?
+Pull Requests und Issues sind jederzeit willkommen.
+
+---
+
+## Nützliche Ressourcen
+
+| Ressource | Link |
+|-----------|------|
+| ISO/IEC 27001 | https://www.iso.org/isoiec-27001-information-security.html |
+| NIST Cybersecurity Framework | https://www.nist.gov/cyberframework |
+| EU GDPR | https://gdpr.eu/ |
+| OWASP | https://owasp.org/ |
+| CIS Benchmarks | https://www.cisecurity.org/cis-benchmarks |

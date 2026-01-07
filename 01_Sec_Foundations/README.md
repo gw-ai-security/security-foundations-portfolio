@@ -11,6 +11,21 @@ Dieses Repository dokumentiert zentrale Grundlagen der Informationssicherheit. E
 - Security-Frameworks: ISO/IEC 27001, NIST Cybersecurity Framework, DSGVO
 - Toolchain: GitHub, Git, Markdown, draw.io
 - Learning Dashboard zur Fortschrittsverfolgung
+- Praktische Übungen mit Musterlösungen
+
+---
+
+## Lernziele & erworbene Skills
+
+Nach Abschluss dieses Projekts kannst du:
+
+| Skill | Beschreibung | Relevanz für Karriere |
+|-------|--------------|----------------------|
+| CIA-Trias anwenden | Schutzziele für beliebige Systeme bewerten | Grundlage jeder Security-Analyse |
+| Threat Modeling (STRIDE) | Bedrohungen systematisch identifizieren | Pflicht in Security Assessments |
+| Risikobewertung (DREAD) | Bedrohungen quantifizieren und priorisieren | Entscheidungsgrundlage für Management |
+| Framework-Kenntnis | ISO 27001, NIST CSF, DSGVO verstehen | Compliance & Audit-Vorbereitung |
+| Technische Dokumentation | Professionelle Markdown-Dokumentation | Interview- & Portfolio-Ready |
 
 ---
 
@@ -58,13 +73,27 @@ Alle Tools sind kostenfrei und auf Windows, macOS und Linux verfügbar.
 
 | Komponente               | Status        |
 |--------------------------|---------------|
-| Projektstruktur          | abgeschlossen |
-| README.md                | abgeschlossen |
-| 01_CIA_Model.md          | in Arbeit     |
-| 02_Threat_Categories.md  | offen         |
-| 03_Security_Frameworks.md| offen         |
-| cia_triad.drawio         | offen         |
-| learning_dashboard.md    | Vorlage steht |
+| Projektstruktur          | ✅ abgeschlossen |
+| README.md                | ✅ abgeschlossen |
+| 01_CIA_Model.md          | ✅ abgeschlossen |
+| 02_Threat_Categories.md  | ✅ abgeschlossen |
+| 03_Security_Frameworks.md| ✅ abgeschlossen |
+| 04_Practical_Exercises.md| ✅ abgeschlossen |
+| glossary.md              | ✅ abgeschlossen |
+| learning_dashboard.md    | ✅ abgeschlossen |
+
+---
+
+## Selbstbewertungs-Checkliste
+
+Prüfe nach Abschluss des Projekts, ob du diese Fragen beantworten kannst:
+
+- [ ] Was bedeutet CIA-Trias und wie hängen die drei Werte zusammen?
+- [ ] Welche sechs Bedrohungskategorien beschreibt STRIDE?
+- [ ] Wie bewertest du eine Bedrohung mit DREAD?
+- [ ] Was ist der Unterschied zwischen ISO 27001 und NIST CSF?
+- [ ] Wann ist die DSGVO relevant und welche Artikel betreffen IT-Security?
+- [ ] Wie führst du ein Mini-Security-Assessment durch?
 
 ---
 
